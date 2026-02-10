@@ -2,20 +2,24 @@
 
 
 <br>
-O *Time-Pomodoro* é um cronômetro simples e intuitivo para aplicar a técnica Pomodoro, desenvolvido com *HTML, CSS e JavaScript*.  
+O Time-Pomodoro é um cronômetro simples e intuitivo para aplicar a técnica Pomodoro, desenvolvido com HTML, CSS e JavaScript.  
 Ele ajuda a organizar ciclos de foco e pausa, tornando o estudo ou trabalho mais produtivo e disciplinado.
 
 
 <br>
 <br>
+
 ---
-📌**Visão Geral**
+
+📌 **Visão Geral**
 O Time-Pomodoro oferece uma interface minimalista com fundo escuro e botões luminosos, permitindo que o usuário controle seus ciclos de concentração e descanso de forma prática.  
 A proposta é facilitar o uso da técnica Pomodoro sem necessidade de aplicativos complexos.
 
 <br>
 <br>
+
 ---
+
 ❗ **Problema a Resolver**
 - Dificuldade em manter disciplina durante longos períodos de estudo ou trabalho.  
 - Falta de ferramentas simples e acessíveis para aplicar a técnica Pomodoro.  
@@ -23,8 +27,9 @@ A proposta é facilitar o uso da técnica Pomodoro sem necessidade de aplicativo
 
 <br>
 <br>
+
 ---
-<br>
+
 💡 **Solução Proposta**
 - Um cronômetro digital com ciclos pré-definidos de foco e pausa.  
 - Interface clara e estilizada com CSS, destacando os botões principais.  
@@ -32,15 +37,17 @@ A proposta é facilitar o uso da técnica Pomodoro sem necessidade de aplicativo
 
 <br>
 <br>
+
 ---
 
 ✅ **O que foi implementado**
-- ⏱️ Ciclo padrão de *25 minutos de foco* e *5 minutos de pausa* 
-- 🎛️ Botões intuitivos: *Foco**, *Pausa*, *Iniciar* e *Resetar*  
+- ⏱️ Ciclo padrão de 25 minutos de foco e 5 minutos de pausa 
+- 🎛️ Botões intuitivos: Foco, Pausa, Iniciar e Resetar  
 - 🎨 Interface estilizada com CSS e fundo escuro estrelado  
 - 📱 Design responsivo para diferentes dispositivos  
 <br>
 <br>
+
 ---
 
 👥 **Público-Alvo**
@@ -49,6 +56,7 @@ A proposta é facilitar o uso da técnica Pomodoro sem necessidade de aplicativo
 - Usuários que preferem ferramentas simples e diretas.  
 <br>
 <br>
+
 ---
 
 ⚙️ **Funcionalidades-Chave**
