@@ -66,10 +66,13 @@ A proposta é facilitar o uso da técnica Pomodoro sem necessidade de aplicativo
 - Interface visual agradável e minimalista.  
 <br>
 <br>
+
 ---
+
 🛠️ **Tecnologias**
-- *HTML* → estrutura da aplicação  
-- *CSS* → estilização e design responsivo  
-- *JavaScript* → lógica do cronômetro e interatividade  
+- HTML → estrutura da aplicação  
+- CSS → estilização e design responsivo  
+- JavaScript → lógica do cronômetro e interatividade
+  
 <br>
 
