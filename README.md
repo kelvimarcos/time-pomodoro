@@ -1,4 +1,4 @@
-⏱️ **Time-Pomodoro  
+⏱️ **Time-Pomodoro** 
 
 O **Time-Pomodoro** é um cronômetro simples e intuitivo para aplicar a técnica Pomodoro, desenvolvido com **HTML, CSS e JavaScript**.  
 Ele ajuda a organizar ciclos de foco e pausa, tornando o estudo ou trabalho mais produtivo e disciplinado.
